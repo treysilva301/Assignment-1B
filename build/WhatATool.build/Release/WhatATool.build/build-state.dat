@@ -1,0 +1,474 @@
+TWhatATool
+v7
+r0
+t307841906.071438
+cCheck dependencies
+cProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-gbgmsslqiilbjtcblcyyqyyvmeke/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bigudobsquguukcmryeazxsxnban/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bvhjpqyzsqzrlrdndchxjlfxhsua/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool" normal x86_64
+cCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool" normal i386
+cLd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool" normal ppc
+cCreateUniversalBinary "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool.dSYM" "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/Trey/Desktop/WhatATool/WhatATool.m
+c000000004CA2733A0000000000000231
+t1285714746
+s561
+i<Foundation/Foundation.h>
+
+N/Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch
+c000000004CA25E9E00000000000000A0
+t1285709470
+s160
+i<Foundation/Foundation.h>
+
+N/Users/Trey/Desktop/WhatATool/build/Release/WhatATool
+t1285714617
+s46084
+
+N/Users/Trey/Desktop/WhatATool/build/Release/WhatATool.dSYM
+t1285714617
+s102
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool
+t1285714616
+s13548
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.LinkFileList
+c000000004CA272B1000000000000006C
+t1285714609
+s108
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o
+t1285714616
+s6892
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool
+t1285714617
+s13316
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.LinkFileList
+c000000004CA272B1000000000000006B
+t1285714609
+s107
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o
+t1285714616
+s6920
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool
+t1285714616
+s9720
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList
+c000000004CA272B1000000000000006E
+t1285714609
+s110
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+t1285714616
+s8872
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m
+c000000004CA914100000000000000B39
+t1286149136
+s2873
+i<Foundation/Foundation.h>
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool_Prefix.pch
+c000000004CA25E9E00000000000000A0
+t1285709470
+s160
+i<Foundation/Foundation.h>
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool
+t1286149106
+s58864
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool.dSYM
+t1286149106
+s102
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool
+t1286149105
+s17972
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.LinkFileList
+c000000004CA516A10000000000000090
+t1285887649
+s144
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o
+t1286149105
+s13008
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool
+t1286149106
+s17904
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.LinkFileList
+c000000004CA516A1000000000000008F
+t1285887649
+s143
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o
+t1286149106
+s14624
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool
+t1286149105
+s14288
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList
+c000000004CA516A10000000000000092
+t1285887649
+s146
+
+N/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+t1286149105
+s17640
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bigudobsquguukcmryeazxsxnban/WhatATool_Prefix.pch.gch
+t1285887653
+s42564400
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bvhjpqyzsqzrlrdndchxjlfxhsua/WhatATool_Prefix.pch.gch
+t1285887655
+s39856720
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-cbzotacsbyrkbfafpolzrgtjojdd/WhatATool_Prefix.pch.gch
+t1285714612
+s40061712
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-dbpvalsqcslckgasfgtixtyxgvzh/WhatATool_Prefix.pch.gch
+t1285714613
+s42564400
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-duqhucxfodlektebfronpwkhhbfd/WhatATool_Prefix.pch.gch
+t1285714616
+s39856720
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-gbgmsslqiilbjtcblcyyqyyvmeke/WhatATool_Prefix.pch.gch
+t1285887653
+s40061712
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307841905#307841905#0(0"0(0#1#0"8625368384#0"0#
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307841905.513432
+e307841905.849498
+r1
+xCompileC
+xbuild/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m: In function 'PrintIntrospectionInfo':
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:72: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:75: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: 'NSObject' may not respond to '-lowercaseString'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: (Messages without a matching method signature
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: will be assumed to return 'id' and accept
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: '...' as arguments.)
+lSLF07#2@85"Compile /Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#307841905#0(1013"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m: In function 'PrintIntrospectionInfo':/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:72: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:75: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: 'NSObject' may not respond to '-lowercaseString'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: (Messages without a matching method signature/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: will be assumed to return 'id' and accept/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: '...' as arguments.)4(22@90"Incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'307841905#117#182#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#72#0#72#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@100"Incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'307841905#299#192#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#75#0#75#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@48"'NSObject' may not respond to '-lowercaseString'307841905#491#140#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#93#0#93#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307841905#631#137#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#93#0#93#0#0"0(0#0#77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m8621105280#1849"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap" -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/include" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/i386" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources" -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bigudobsquguukcmryeazxsxnban/WhatATool_Prefix.pch -c "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" -o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o"0#
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o /Users/Trey/Desktop/WhatATool/WhatATool.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307407416.497700
+e307407416.666914
+r1
+xCompileC
+xbuild/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o
+x/Users/Trey/Desktop/WhatATool/WhatATool.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Trey/Desktop/WhatATool/WhatATool.m: In function 'PrintPathInfo':
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: 'NSString' may not respond to '-stringByExpandingTildeIn'
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: (Messages without a matching method signature
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: will be assumed to return 'id' and accept
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: '...' as arguments.)
+lSLF07#2@49"Compile /Users/Trey/Desktop/WhatATool/WhatATool.m307407416#307407416#0(455"/Users/Trey/Desktop/WhatATool/WhatATool.m: In function 'PrintPathInfo':/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: 'NSString' may not respond to '-stringByExpandingTildeIn'/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: (Messages without a matching method signature/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: will be assumed to return 'id' and accept/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: '...' as arguments.)2(22@57"'NSString' may not respond to '-stringByExpandingTildeIn'307407416#72#112#0(6@41"/Users/Trey/Desktop/WhatATool/WhatATool.m307407296#5#0#5#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307407416#184#100#0(6@41"/Users/Trey/Desktop/WhatATool/WhatATool.m307407296#5#0#5#0#0"0(0#0#41"/Users/Trey/Desktop/WhatATool/WhatATool.m8616839648#1431"    cd /Users/Trey/Desktop/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Trey/Desktop/WhatATool/build/Release -I/Users/Trey/Desktop/WhatATool/build/Release/include -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/i386 -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-dbpvalsqcslckgasfgtixtyxgvzh/WhatATool_Prefix.pch -c /Users/Trey/Desktop/WhatATool/WhatATool.m -o /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o0#
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s307841905.848333
+e307841906.038826
+r1
+xCompileC
+xbuild/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m: In function 'PrintIntrospectionInfo':
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:72: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:75: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: 'NSObject' may not respond to '-lowercaseString'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: (Messages without a matching method signature
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: will be assumed to return 'id' and accept
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: '...' as arguments.)
+lSLF07#2@85"Compile /Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#307841906#0(1013"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m: In function 'PrintIntrospectionInfo':/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:72: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:75: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: 'NSObject' may not respond to '-lowercaseString'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: (Messages without a matching method signature/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: will be assumed to return 'id' and accept/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: '...' as arguments.)4(22@90"Incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'307841905#117#182#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#72#0#72#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@100"Incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'307841905#299#192#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#75#0#75#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@48"'NSObject' may not respond to '-lowercaseString'307841905#491#140#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#93#0#93#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307841905#631#137#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#93#0#93#0#0"0(0#0#77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m8626145376#1856"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap" -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/include" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/ppc" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources" -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bvhjpqyzsqzrlrdndchxjlfxhsua/WhatATool_Prefix.pch -c "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" -o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o"0#
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o /Users/Trey/Desktop/WhatATool/WhatATool.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s307407416.760776
+e307407416.993293
+r1
+xCompileC
+xbuild/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o
+x/Users/Trey/Desktop/WhatATool/WhatATool.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Trey/Desktop/WhatATool/WhatATool.m: In function 'PrintPathInfo':
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: 'NSString' may not respond to '-stringByExpandingTildeIn'
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: (Messages without a matching method signature
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: will be assumed to return 'id' and accept
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: '...' as arguments.)
+lSLF07#2@49"Compile /Users/Trey/Desktop/WhatATool/WhatATool.m307407416#307407416#0(455"/Users/Trey/Desktop/WhatATool/WhatATool.m: In function 'PrintPathInfo':/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: 'NSString' may not respond to '-stringByExpandingTildeIn'/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: (Messages without a matching method signature/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: will be assumed to return 'id' and accept/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: '...' as arguments.)2(22@57"'NSString' may not respond to '-stringByExpandingTildeIn'307407416#72#112#0(6@41"/Users/Trey/Desktop/WhatATool/WhatATool.m307407296#5#0#5#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307407416#184#100#0(6@41"/Users/Trey/Desktop/WhatATool/WhatATool.m307407296#5#0#5#0#0"0(0#0#41"/Users/Trey/Desktop/WhatATool/WhatATool.m8713912032#1438"    cd /Users/Trey/Desktop/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Trey/Desktop/WhatATool/build/Release -I/Users/Trey/Desktop/WhatATool/build/Release/include -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/ppc -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-duqhucxfodlektebfronpwkhhbfd/WhatATool_Prefix.pch -c /Users/Trey/Desktop/WhatATool/WhatATool.m -o /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o0#
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307841905.512408
+e307841905.827360
+r1
+xCompileC
+xbuild/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m: In function 'PrintIntrospectionInfo':
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:72: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:75: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: 'NSObject' may not respond to '-lowercaseString'
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: (Messages without a matching method signature
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: will be assumed to return 'id' and accept
+o/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: '...' as arguments.)
+lSLF07#2@85"Compile /Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#307841905#0(1013"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m: In function 'PrintIntrospectionInfo':/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:72: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:75: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: 'NSObject' may not respond to '-lowercaseString'/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: (Messages without a matching method signature/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: will be assumed to return 'id' and accept/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m:93: warning: '...' as arguments.)4(22@90"Incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSURL *'307841905#117#182#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#72#0#72#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@100"Incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSMutableString *'307841905#299#192#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#75#0#75#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@48"'NSObject' may not respond to '-lowercaseString'307841905#491#140#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#93#0#93#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307841905#631#137#0(6@77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m307841905#93#0#93#0#0"0(0#0#77"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m8621186336#1855"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap" -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/include" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/x86_64" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources" -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-gbgmsslqiilbjtcblcyyqyyvmeke/WhatATool_Prefix.pch -c "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool.m" -o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o"0#
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o /Users/Trey/Desktop/WhatATool/WhatATool.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307407416.496362
+e307407416.680363
+r1
+xCompileC
+xbuild/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+x/Users/Trey/Desktop/WhatATool/WhatATool.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Trey/Desktop/WhatATool/WhatATool.m: In function 'PrintPathInfo':
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: 'NSString' may not respond to '-stringByExpandingTildeIn'
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: (Messages without a matching method signature
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: will be assumed to return 'id' and accept
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: '...' as arguments.)
+lSLF07#2@49"Compile /Users/Trey/Desktop/WhatATool/WhatATool.m307407416#307407416#0(455"/Users/Trey/Desktop/WhatATool/WhatATool.m: In function 'PrintPathInfo':/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: 'NSString' may not respond to '-stringByExpandingTildeIn'/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: (Messages without a matching method signature/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: will be assumed to return 'id' and accept/Users/Trey/Desktop/WhatATool/WhatATool.m:5: warning: '...' as arguments.)2(22@57"'NSString' may not respond to '-stringByExpandingTildeIn'307407416#72#112#0(6@41"/Users/Trey/Desktop/WhatATool/WhatATool.m307407296#5#0#5#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307407416#184#100#0(6@41"/Users/Trey/Desktop/WhatATool/WhatATool.m307407296#5#0#5#0#0"0(0#0#41"/Users/Trey/Desktop/WhatATool/WhatATool.m8719667424#1437"    cd /Users/Trey/Desktop/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Trey/Desktop/WhatATool/build/Release -I/Users/Trey/Desktop/WhatATool/build/Release/include -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/x86_64 -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-cbzotacsbyrkbfafpolzrgtjojdd/WhatATool_Prefix.pch -c /Users/Trey/Desktop/WhatATool/WhatATool.m -o /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o0#
+
+CCreateUniversalBinary "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool" normal "x86_64 i386 ppc"
+s307841906.055506
+e307841906.059474
+r1
+xCreateUniversalBinary
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@70"CreateUniversalBinary build/Release/WhatATool normal "x86_64 i386 ppc"307841906#307841906#0(0"0(0#0#81"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/x86_64 i386 ppc8626046752#634"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    /usr/bin/lipo -create "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool" "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool" "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool" -output "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool"0#
+
+CCreateUniversalBinary /Users/Trey/Desktop/WhatATool/build/Release/WhatATool normal "x86_64 i386 ppc"
+s307407417.162133
+e307407417.233671
+r1
+xCreateUniversalBinary
+x/Users/Trey/Desktop/WhatATool/build/Release/WhatATool
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@70"CreateUniversalBinary build/Release/WhatATool normal "x86_64 i386 ppc"307407417#307407417#0(0"0(0#0#45"/Users/Trey/Desktop/WhatATool/x86_64 i386 ppc8716345344#444"    cd /Users/Trey/Desktop/WhatATool    /usr/bin/lipo -create /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool -output /Users/Trey/Desktop/WhatATool/build/Release/WhatATool0#
+
+CGenerateDSYMFile "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool.dSYM" "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool"
+s307841906.059605
+e307841906.071392
+r1
+xGenerateDSYMFile
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool.dSYM
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool
+lSLF07#2@69"GenerateDSYMFile build/Release/WhatATool.dSYM build/Release/WhatATool307841906#307841906#0(0"0(0#0#89"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool8625890976#299"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    /Developer/usr/bin/dsymutil "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool" -o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/WhatATool.dSYM"0#
+
+CGenerateDSYMFile /Users/Trey/Desktop/WhatATool/build/Release/WhatATool.dSYM /Users/Trey/Desktop/WhatATool/build/Release/WhatATool
+s307407417.233831
+e307407417.427491
+r1
+xGenerateDSYMFile
+x/Users/Trey/Desktop/WhatATool/build/Release/WhatATool.dSYM
+x/Users/Trey/Desktop/WhatATool/build/Release/WhatATool
+lSLF07#2@69"GenerateDSYMFile build/Release/WhatATool.dSYM build/Release/WhatATool307407417#307407417#0(0"0(0#0#53"/Users/Trey/Desktop/WhatATool/build/Release/WhatATool8714967168#185"    cd /Users/Trey/Desktop/WhatATool    /Developer/usr/bin/dsymutil /Users/Trey/Desktop/WhatATool/build/Release/WhatATool -o /Users/Trey/Desktop/WhatATool/build/Release/WhatATool.dSYM0#
+
+CLd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool" normal i386
+s307841905.849571
+e307841905.880600
+r1
+xLd
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool
+xnormal
+xi386
+lSLF07#2@146"Link /Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool307841905#307841905#0(0"0(0#0#0"8625856320#729"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" -filelist "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool"0#
+
+CLd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool" normal ppc
+s307841906.039146
+e307841906.055404
+r1
+xLd
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool
+xnormal
+xppc
+lSLF07#2@145"Link /Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool307841906#307841906#0(0"0(0#0#0"8626221600#726"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" -filelist "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool"0#
+
+CLd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool" normal x86_64
+s307841905.827452
+e307841905.848213
+r1
+xLd
+x/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool
+xnormal
+xx86_64
+lSLF07#2@148"Link /Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool307841905#307841905#0(0"0(0#0#0"8626778784#735"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" -filelist "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool"0#
+
+CLd /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool normal i386
+s307407416.667020
+e307407416.888630
+r1
+xLd
+x/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool
+xnormal
+xi386
+old: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not found
+old: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found
+lSLF07#2@110"Link /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool307407416#307407416#0(184"ld: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not foundld: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found2(22@78"Directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not found307407416#0#92#0(6@0"307407416#0#0#0#0#0"0(22@78"Directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found307407416#92#92#0(6@0"307407416#0#0#0#0#0"0(0#0#0"8720327584#539"    cd /Users/Trey/Desktop/WhatATool    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Trey/Desktop/WhatATool/build/Release -F/Users/Trey/Desktop/WhatATool/build/Release -filelist /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool0#
+
+CLd /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool normal ppc
+s307407416.993400
+e307407417.161997
+r1
+xLd
+x/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool
+xnormal
+xppc
+old: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not found
+old: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found
+lSLF07#2@109"Link /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool307407416#307407417#0(184"ld: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not foundld: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found2(22@78"Directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not found307407417#0#92#0(6@0"307407417#0#0#0#0#0"0(22@78"Directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found307407417#92#92#0(6@0"307407417#0#0#0#0#0"0(0#0#0"8714932800#536"    cd /Users/Trey/Desktop/WhatATool    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Trey/Desktop/WhatATool/build/Release -F/Users/Trey/Desktop/WhatATool/build/Release -filelist /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool0#
+
+CLd /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool normal x86_64
+s307407416.680512
+e307407416.760627
+r1
+xLd
+x/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool
+xnormal
+xx86_64
+old: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not found
+old: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found
+lSLF07#2@112"Link /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool307407416#307407416#0(184"ld: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not foundld: warning: directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found2(22@78"Directory '/Users/Trey/Desktop/WhatATool/build/Release' following -L not found307407416#0#92#0(6@0"307407416#0#0#0#0#0"0(22@78"Directory '/Users/Trey/Desktop/WhatATool/build/Release' following -F not found307407416#92#92#0(6@0"307407416#0#0#0#0#0"0(0#0#0"8616202912#545"    cd /Users/Trey/Desktop/WhatATool    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Trey/Desktop/WhatATool/build/Release -F/Users/Trey/Desktop/WhatATool/build/Release -filelist /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool0#
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bigudobsquguukcmryeazxsxnban/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307580449.666338
+e307580453.919870
+r1
+xProcessPCH
+x/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bigudobsquguukcmryeazxsxnban/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch307580449#307580453#0(0"0(0#0#86"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool_Prefix.pch8602868000#1714"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap" -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/include" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/i386" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources" -c "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool_Prefix.pch" -o /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bigudobsquguukcmryeazxsxnban/WhatATool_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bvhjpqyzsqzrlrdndchxjlfxhsua/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s307580453.161699
+e307580456.139594
+r1
+xProcessPCH
+x/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bvhjpqyzsqzrlrdndchxjlfxhsua/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch307580453#307580456#0(0"0(0#0#86"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool_Prefix.pch8603527392#1722"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap" -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/include" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/ppc" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources" -c "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool_Prefix.pch" -o /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-bvhjpqyzsqzrlrdndchxjlfxhsua/WhatATool_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-cbzotacsbyrkbfafpolzrgtjojdd/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307407409.286529
+e307407413.183767
+r1
+xProcessPCH
+x/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-cbzotacsbyrkbfafpolzrgtjojdd/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch307407409#307407413#0(0"0(0#0#50"/Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch8640436768#1338"    cd /Users/Trey/Desktop/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Trey/Desktop/WhatATool/build/Release -I/Users/Trey/Desktop/WhatATool/build/Release/include -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/x86_64 -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources -c /Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch -o /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-cbzotacsbyrkbfafpolzrgtjojdd/WhatATool_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-dbpvalsqcslckgasfgtixtyxgvzh/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307407409.287657
+e307407413.350269
+r1
+xProcessPCH
+x/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-dbpvalsqcslckgasfgtixtyxgvzh/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch307407409#307407413#0(0"0(0#0#50"/Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch8640084480#1334"    cd /Users/Trey/Desktop/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Trey/Desktop/WhatATool/build/Release -I/Users/Trey/Desktop/WhatATool/build/Release/include -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/i386 -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources -c /Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch -o /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-dbpvalsqcslckgasfgtixtyxgvzh/WhatATool_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-duqhucxfodlektebfronpwkhhbfd/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s307407413.183980
+e307407416.496120
+r1
+xProcessPCH
+x/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-duqhucxfodlektebfronpwkhhbfd/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch307407413#307407416#0(0"0(0#0#50"/Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch8716598528#1342"    cd /Users/Trey/Desktop/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Trey/Desktop/WhatATool/build/Release -I/Users/Trey/Desktop/WhatATool/build/Release/include -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/ppc -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources -c /Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch -o /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-duqhucxfodlektebfronpwkhhbfd/WhatATool_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-gbgmsslqiilbjtcblcyyqyyvmeke/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307580449.626677
+e307580453.161509
+r1
+xProcessPCH
+x/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-gbgmsslqiilbjtcblcyyqyyvmeke/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch307580449#307580453#0(0"0(0#0#86"/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool_Prefix.pch6875993255033533440#1718"    cd "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-generated-files.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-own-target-headers.hmap" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-all-target-headers.hmap" -iquote "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/WhatATool-project-headers.hmap" "-F/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/Release/include" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources/x86_64" "-I/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/build/WhatATool.build/Release/WhatATool.build/DerivedSources" -c "/Users/Trey/Documents/UT/Fall 2010/CS370W/Assignment 1B/WhatATool/WhatATool_Prefix.pch" -o /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-gbgmsslqiilbjtcblcyyqyyvmeke/WhatATool_Prefix.pch.gch0#
+

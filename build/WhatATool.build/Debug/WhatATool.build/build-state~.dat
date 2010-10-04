@@ -1,0 +1,87 @@
+TWhatATool
+v7
+r0
+t307402906.923300
+cCheck dependencies
+cProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-easpeconisdbaubigcrkcdypmzzy/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o /Users/Trey/Desktop/WhatATool/WhatATool.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/Trey/Desktop/WhatATool/WhatATool.m
+c000000004CA261160000000000000137
+t1285710102
+s311
+i<Foundation/Foundation.h>
+
+N/Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch
+c000000004CA25E9E00000000000000A0
+t1285709470
+s160
+i<Foundation/Foundation.h>
+
+N/Users/Trey/Desktop/WhatATool/build/Debug/WhatATool
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList
+c000000004CA26116000000000000006C
+t1285710102
+s108
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+t2
+s0
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-easpeconisdbaubigcrkcdypmzzy/WhatATool_Prefix.pch.gch
+t1285710106
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307402902#307402903#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o /Users/Trey/Desktop/WhatATool/WhatATool.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307402906.777845
+e307402906.922774
+r0
+xCompileC
+xbuild/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+x/Users/Trey/Desktop/WhatATool/WhatATool.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Trey/Desktop/WhatATool/WhatATool.m: In function 'main':
+o/Users/Trey/Desktop/WhatATool/WhatATool.m:8: error: expected ';' before 'pathWithComponents'
+lSLF07#2@49"Compile /Users/Trey/Desktop/WhatATool/WhatATool.m307402906#307402907#0(156"/Users/Trey/Desktop/WhatATool/WhatATool.m: In function 'main':/Users/Trey/Desktop/WhatATool/WhatATool.m:8: error: expected ';' before 'pathWithComponents'1(4@40"Expected ';' before 'pathWithComponents'307402906#63#93#0(6@41"/Users/Trey/Desktop/WhatATool/WhatATool.m307402902#8#0#8#0#19"expected * before *0(0#0#41"/Users/Trey/Desktop/WhatATool/WhatATool.m8717185760#1401"    cd /Users/Trey/Desktop/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Trey/Desktop/WhatATool/build/Debug -I/Users/Trey/Desktop/WhatATool/build/Debug/include -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources/x86_64 -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-easpeconisdbaubigcrkcdypmzzy/WhatATool_Prefix.pch -c /Users/Trey/Desktop/WhatATool/WhatATool.m -o /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o1#
+
+CLd /Users/Trey/Desktop/WhatATool/build/Debug/WhatATool normal x86_64
+r0
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-easpeconisdbaubigcrkcdypmzzy/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307402903.016652
+e307402906.777339
+r1
+xProcessPCH
+x/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-easpeconisdbaubigcrkcdypmzzy/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch307402903#307402906#0(0"0(0#0#50"/Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch6875993255033533440#1304"    cd /Users/Trey/Desktop/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Trey/Desktop/WhatATool/build/Debug -I/Users/Trey/Desktop/WhatATool/build/Debug/include -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources/x86_64 -I/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources -c /Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch -o /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-easpeconisdbaubigcrkcdypmzzy/WhatATool_Prefix.pch.gch0#
+

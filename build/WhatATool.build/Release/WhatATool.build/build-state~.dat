@@ -1,0 +1,123 @@
+TWhatATool
+v7
+r1
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/Trey/Desktop/WhatATool/WhatATool.m
+c000000004CA270BE0000000000000255
+t1285714110
+s597
+i<Foundation/Foundation.h>
+
+N/Users/Trey/Desktop/WhatATool/WhatATool_Prefix.pch
+c000000004CA25E9E00000000000000A0
+t1285709470
+s160
+i<Foundation/Foundation.h>
+
+N/Users/Trey/Desktop/WhatATool/build/Release/WhatATool
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/Release/WhatATool.dSYM
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+t2
+s0
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-cbzotacsbyrkbfafpolzrgtjojdd/WhatATool_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-dbpvalsqcslckgasfgtixtyxgvzh/WhatATool_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-duqhucxfodlektebfronpwkhhbfd/WhatATool_Prefix.pch.gch
+t2
+s0
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool.o /Users/Trey/Desktop/WhatATool/WhatATool.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool.o /Users/Trey/Desktop/WhatATool/WhatATool.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool.o /Users/Trey/Desktop/WhatATool/WhatATool.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCreateUniversalBinary /Users/Trey/Desktop/WhatATool/build/Release/WhatATool normal "x86_64 i386 ppc"
+r0
+
+CGenerateDSYMFile /Users/Trey/Desktop/WhatATool/build/Release/WhatATool.dSYM /Users/Trey/Desktop/WhatATool/build/Release/WhatATool
+r0
+
+CLd /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/i386/WhatATool normal i386
+r0
+
+CLd /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/ppc/WhatATool normal ppc
+r0
+
+CLd /Users/Trey/Desktop/WhatATool/build/WhatATool.build/Release/WhatATool.build/Objects-normal/x86_64/WhatATool normal x86_64
+r0
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-cbzotacsbyrkbfafpolzrgtjojdd/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-dbpvalsqcslckgasfgtixtyxgvzh/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-duqhucxfodlektebfronpwkhhbfd/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
